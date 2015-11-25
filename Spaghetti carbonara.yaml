@@ -1,48 +1,45 @@
-# Just need to make a change to this file.
-
-name: Gennaro's classic spaghetti carbonara
+---
 language: en
-author: Jamie Oliver
-source: http://www.jamieoliver.com/recipes/pasta-recipes/gennaro-s-classic-spaghetti-carbonara/
-
+name: "Gennaro's classic spaghetti carbonara"
 serves: 2
+source: "http://www.jamieoliver.com/recipes/pasta-recipes/gennaro-s-classic-spaghetti-carbonara/"
+author: "Jamie Oliver"
 cooksIn: 10
-
 ingredients:
-  - count: 3
-    description: large free-range egg yolks
+  -
     class: egg.yolk
-
-  - count: 40
-    unit: gram
-    description: Parmesan cheese
-    note: plus extra to serve
+    count: 3
+    description: "large free-range egg yolks"
+  -
     class: parmesan
-
-  - description: sea salt
+    count: 40
+    description: "Parmesan cheese"
+    note: "plus extra to serve"
+    unit: gram
+  -
     class: salt.sea
-
-  - description: freshly ground black pepper
+    description: "sea salt"
+  -
     class: pepper.black
-
-  - count: 1
+    description: "freshly ground black pepper"
+  -
     base: 150
-    unit: gram
-    description: piece of higher-welfare pancetta
     class: ham.pancetta
-
-  - count: 200
+    count: 1
+    description: "piece of higher-welfare pancetta"
     unit: gram
-    description: spaghetti
+  -
     class: pasta.spaghetti
-
-  - count: 1
-    description: clove of garlic, peeled
+    count: 200
+    description: spaghetti
+    unit: gram
+  -
     class: garlic.clove
-
-  - description: extra virgin olive oil
+    count: 1
+    description: "clove of garlic, peeled"
+  -
     class: oil.olive.extravirgin
-
+    description: "extra virgin olive oil"
 instructions: |
     Put the egg yolks into a bowl, finely grate in the Parmesan, season with
     pepper, then mix well with a fork and put to one side. Cut any hard skin off
@@ -63,9 +60,8 @@ instructions: |
     pour in the egg mixture – the pan will help to cook the egg gently, rather
     than scrambling it. Toss well, adding more cooking water until it’s lovely
     and glossy. Serve with a grating of Parmesan and an extra twist of pepper.
-
 tips:
   - |
-    Use ready-sliced quality pancetta if you can’t buy it in one piece. It’s
-    traditional to use spaghetti in this recipe, but bucatini or rigatoni are
-    just as good.
+      Use ready-sliced quality pancetta if you can’t buy it in one piece. It’s
+      traditional to use spaghetti in this recipe, but bucatini or rigatoni are
+      just as good.
