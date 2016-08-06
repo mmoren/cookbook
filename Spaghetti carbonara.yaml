@@ -12,7 +12,7 @@ ingredients:
     description: "large free-range egg yolks"
   -
     class: parmesan
-    count: 40
+    amount: 40
     description: "Parmesan cheese"
     note: "plus extra to serve"
     unit: gram
@@ -23,14 +23,14 @@ ingredients:
     class: pepper.black
     description: "freshly ground black pepper"
   -
-    base: 150
+    amount: 150
     class: ham.pancetta
     count: 1
     description: "piece of higher-welfare pancetta"
     unit: gram
   -
     class: pasta.spaghetti
-    count: 200
+    amount: 200
     description: spaghetti
     unit: gram
   -
